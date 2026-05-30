@@ -1,0 +1,7 @@
+# Install all of these with:
+#   pip install -r requirements.txt
+
+streamlit          # web UI
+pymupdf            # read PDFs  (imported as "fitz")
+google-generativeai  # Gemini embeddings + LLM
+chromadb           # free local vector database
